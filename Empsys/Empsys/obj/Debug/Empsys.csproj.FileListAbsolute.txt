@@ -1,0 +1,6 @@
+C:\Users\madhubabu\Desktop\git local folder\govinda\Empsys\Empsys\obj\Debug\Empsys.csprojResolveAssemblyReference.cache
+C:\Users\madhubabu\Desktop\git local folder\govinda\Empsys\Empsys\bin\Empsys.dll.config
+C:\Users\madhubabu\Desktop\git local folder\govinda\Empsys\Empsys\bin\Empsys.dll
+C:\Users\madhubabu\Desktop\git local folder\govinda\Empsys\Empsys\bin\Empsys.pdb
+C:\Users\madhubabu\Desktop\git local folder\govinda\Empsys\Empsys\obj\Debug\Empsys.dll
+C:\Users\madhubabu\Desktop\git local folder\govinda\Empsys\Empsys\obj\Debug\Empsys.pdb
